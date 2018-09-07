@@ -1,0 +1,6 @@
+c:\users\furry\documents\visual studio 2015\Projects\Breeze Chess Console\Breeze Chess Console\bin\x64\Release\Breeze Chess Console.exe.config
+c:\users\furry\documents\visual studio 2015\Projects\Breeze Chess Console\Breeze Chess Console\bin\x64\Release\Breeze Chess Console.exe
+c:\users\furry\documents\visual studio 2015\Projects\Breeze Chess Console\Breeze Chess Console\bin\x64\Release\Breeze Chess Console.pdb
+c:\users\furry\documents\visual studio 2015\Projects\Breeze Chess Console\Breeze Chess Console\obj\x64\Release\Breeze Chess Console.exe
+c:\users\furry\documents\visual studio 2015\Projects\Breeze Chess Console\Breeze Chess Console\obj\x64\Release\Breeze Chess Console.pdb
+c:\users\furry\documents\visual studio 2015\Projects\Breeze Chess Console\Breeze Chess Console\obj\x64\Release\Breeze Chess Console.csprojResolveAssemblyReference.cache

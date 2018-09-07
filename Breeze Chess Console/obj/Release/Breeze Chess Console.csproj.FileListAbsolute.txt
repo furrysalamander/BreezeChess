@@ -1,0 +1,13 @@
+c:\users\furry\documents\visual studio 2015\Projects\Breeze Chess Console\Breeze Chess Console\bin\Release\Breeze Chess Console.exe.config
+c:\users\furry\documents\visual studio 2015\Projects\Breeze Chess Console\Breeze Chess Console\bin\Release\Breeze Chess Console.exe
+c:\users\furry\documents\visual studio 2015\Projects\Breeze Chess Console\Breeze Chess Console\bin\Release\Breeze Chess Console.pdb
+c:\users\furry\documents\visual studio 2015\Projects\Breeze Chess Console\Breeze Chess Console\obj\Release\Breeze Chess Console.exe
+c:\users\furry\documents\visual studio 2015\Projects\Breeze Chess Console\Breeze Chess Console\obj\Release\Breeze Chess Console.pdb
+c:\users\furry\documents\visual studio 2015\Projects\Breeze Chess Console\Breeze Chess Console\obj\Release\Breeze Chess Console.csprojResolveAssemblyReference.cache
+C:\Users\Mike Abbott\Documents\GitHub\BreezeChess\Breeze Chess Console\bin\Release\Breeze Chess Console.exe.config
+C:\Users\Mike Abbott\Documents\GitHub\BreezeChess\Breeze Chess Console\bin\Release\Breeze Chess Console.exe
+C:\Users\Mike Abbott\Documents\GitHub\BreezeChess\Breeze Chess Console\bin\Release\Breeze Chess Console.pdb
+C:\Users\Mike Abbott\Documents\GitHub\BreezeChess\Breeze Chess Console\obj\Release\Breeze Chess Console.csprojAssemblyReference.cache
+C:\Users\Mike Abbott\Documents\GitHub\BreezeChess\Breeze Chess Console\obj\Release\Breeze Chess Console.csproj.CoreCompileInputs.cache
+C:\Users\Mike Abbott\Documents\GitHub\BreezeChess\Breeze Chess Console\obj\Release\Breeze Chess Console.exe
+C:\Users\Mike Abbott\Documents\GitHub\BreezeChess\Breeze Chess Console\obj\Release\Breeze Chess Console.pdb
